@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/glb/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "three.js",
+    "navigationBarTextStyle": "black"
+  }
+}
